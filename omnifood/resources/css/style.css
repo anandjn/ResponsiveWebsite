@@ -314,20 +314,3 @@ header {
 /*-------------------------------------*/
 /* CITIES */
 /*-------------------------------------*/
-
-.cities-showcase {
-    list-style: none;
-    width: 100%;
-}
-
-.cities-showcase li {
-    display: block;
-    width: 25%;
-    float: left;
-}
-
-.city-photo {
-    width: 100%;
-    margin: 0;
-    
-}
